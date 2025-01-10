@@ -2,7 +2,7 @@
 
 Este é o README do meu projeto.
 
-## Exemplo de Resultado do Código HTML
+## Exemplo de Código HTML
 
 <!-- Importando a fonte VT323 -->
 <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
