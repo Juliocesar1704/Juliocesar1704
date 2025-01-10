@@ -1,16 +1,31 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texto com Efeito 3D</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
-<!--
-**Juliocesar1704/Juliocesar1704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        body {
+            background-color: black;
+            color: #41B8D5;
+            margin: 0;
+            font-family: 'VT323', monospace;
+        }
 
-Here are some ideas to get you started:
+        .text-3d {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            font-size: 3em;
+            color: #41B8D5;
+            text-shadow: 1px 1px 0 #000, 2px 2px 0 #000, 3px 3px 0 #000, 4px 4px 0 #000, 5px 5px 0 #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="text-3d">Olá, bem-vindo(a) ao meu GitHub!</div>
+</body>
+</html>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
