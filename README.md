@@ -2,37 +2,13 @@
 
 Este é o README do meu projeto.
 
-## Exemplo de código HTML
+## Exemplo de Resultado do Código HTML
 
-```html
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Texto com Efeito 3D</title>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+<!-- Importando a fonte VT323 -->
+<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
 
-        body {
-            background-color: black;
-            color: #41B8D5;
-            margin: 0;
-            font-family: 'VT323', monospace;
-        }
-
-        .text-3d {
-            position: absolute;
-            top: 10px;
-            left: 10px;
-            font-size: 3em;
-            color: #41B8D5;
-            text-shadow: 1px 1px 0 #000, 2px 2px 0 #000, 3px 3px 0 #000, 4px 4px 0 #000, 5px 5px 0 #000;
-        }
-    </style>
-</head>
-<body>
-    <div class="text-3d">Olá, bem-vindo(a) ao meu GitHub!</div>
-</body>
-</html>
-
+<div style="font-family: 'VT323', monospace; color: #41B8D5; background-color: black; padding: 20px;">
+    <h1 style="font-size: 3em; text-shadow: 1px 1px 0 #000, 2px 2px 0 #000, 3px 3px 0 #000, 4px 4px 0 #000, 5px 5px 0 #000;">
+        Olá, bem-vindo(a) ao meu GitHub!
+    </h1>
+</div>
