@@ -1,5 +1,4 @@
-```
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -29,4 +28,3 @@
     <div class="text-3d">Olá, bem-vindo(a) ao meu GitHub!</div>
 </body>
 </html>
-```
