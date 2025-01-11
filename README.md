@@ -3,7 +3,7 @@
 ![Banner JC](https://github.com/user-attachments/assets/b00c1eb8-8393-4e85-98e6-3dfc1605eb0d)
 
 
-name: Generate snake animation
+```name: Generate snake animation
 
 on:
   schedule: # execute every 12 hours
@@ -37,3 +37,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
