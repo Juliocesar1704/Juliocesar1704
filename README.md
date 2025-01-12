@@ -19,6 +19,7 @@
 - Programar;
 - Gosto de jogar nas horas vagas;
 - Adoro assitir animes,animções,series e filmes;
+- Escutar música;
 - Gosto muito de ler;
 - Sair com amigos;
 - Ir a praia;
