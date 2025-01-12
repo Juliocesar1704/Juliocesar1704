@@ -3,20 +3,6 @@
 ![Banner JC](https://github.com/user-attachments/assets/b00c1eb8-8393-4e85-98e6-3dfc1605eb0d)
 ##
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juliocesar1704&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
- 
-  ##
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juliocesar1704&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  
-  ##
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juliocesar1704&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%A3o%20de%20%E0%BC%92%20J%C3%BAlio%20C%C3%A9sar%20%E0%BC%92" height="300" alt="activity-graph graph"  />
-</div>
-
-##
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=33&pause=1000&color=41B8D5&center=&vCenter=&repeat=&random=&width=435&lines=Sobre+mim%3A" alt="Typing SVG" /></a>
 - Tenho 19 anos;
 - 🇧🇷 Brasileiro;
@@ -68,5 +54,11 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
 
 ![LINUX](https://icongr.am/devicon/linux-original.svg?size=100&color=currentColor)![PYTHON](https://icongr.am/devicon/python-original.svg?size=100&color=currentColor)![JS](https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor)![HTML](https://icongr.am/devicon/html5-original.svg?size=100&color=currentColor)![CSS](https://icongr.am/devicon/css3-original.svg?size=100&color=currentColor)
 ##
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Juliocesar1704&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juliocesar1704&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+
+  ##
 
 <img src="https://raw.githubusercontent.com/Juliocesar1704/Juliocesar1704/output/snake.svg" alt="Snake animation" />
