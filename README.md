@@ -53,7 +53,7 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=33&pause=1000&color=41B8D5&center=&vCenter=&repeat=&random=&width=435&lines=O+que+estou+aprendendo%3A" alt="Typing SVG" /></a>
 
-![LINUX](https://icongr.am/devicon/linux-original.svg?size=100&color=currentColor)![PYTHON](https://icongr.am/devicon/python-original.svg?size=100&color=currentColor)![JS](https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor)![HTML](https://icongr.am/devicon/html5-original.svg?size=100&color=currentColor)![CSS](https://icongr.am/devicon/css3-original.svg?size=100&color=currentColor)
+![LINUX](https://icongr.am/devicon/linux-original.svg?size=100&color=currentColor)![DOCKER](https://icongr.am/devicon/docker-original-wordmark.svg?size=100&color=currentColor)![PYTHON](https://icongr.am/devicon/python-original.svg?size=100&color=currentColor)![NODE.JS](https://icongr.am/devicon/nodejs-original.svg?size=100&color=currentColor)![JS](https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor)![HTML](https://icongr.am/devicon/html5-original.svg?size=100&color=currentColor)![CSS](https://icongr.am/devicon/css3-original.svg?size=100&color=currentColor)
 ##
 
 <div align="left">
