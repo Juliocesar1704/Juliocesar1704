@@ -3,11 +3,9 @@
 ![Banner JC](https://github.com/user-attachments/assets/b00c1eb8-8393-4e85-98e6-3dfc1605eb0d)
 ##
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=33&pause=1000&color=41B8D5&center=&vCenter=&repeat=&random=&width=435&lines=Sobre+mim%3A" alt="Typing SVG" /></a>
-
-##
-
-<img align="right" height="230" src="https://www.mexidodeideias.com.br/wp-content/uploads/2016/05/cafe-adventure-time.gif"  />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=33&pause=1000&color=41B8D5&center=&vCenter=&repeat=&random=&width=435&lines=Sobre+mim%3A" alt="Typing SVG" />
+</a>
+<img align="right" height="300" src="https://www.mexidodeideias.com.br/wp-content/uploads/2016/05/cafe-adventure-time.gif"  />
 
 - Tenho 19 anos;
 - 🇧🇷 Brasileiro;
