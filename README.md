@@ -30,11 +30,13 @@
 - Sair com amigos;
 - Ir a praia;
 - Olhar o ceu;
+
 ##
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=33&pause=1000&color=41B8D5&center=&vCenter=&repeat=&random=&width=435&lines=Minhas+experiências%3A" alt="Typing SVG" /></a>
 
-Trabalhei durante um ano como aprendiz no setor de suporte e manutenção em informática de uma rede de supermercados da cidade onde moro. Lá, fazíamos desde reparos físicos, como troca de componentes da placa-mãe e montagem de computadores, até manutenção de impressoras e nobreaks. Além disso, oferecíamos suporte remoto através do AnyDesk (software de acesso remoto), permitindo reparos remotos nos sistemas operacionais e programas/applicativos instalados nas máquinas de outros colaboradores e nos PDVs da loja.
+  Trabalhei durante um ano como aprendiz no setor de suporte e manutenção em informática de uma rede de supermercados da cidade onde moro. Lá, fazíamos desde reparos físicos, como troca de componentes da placa-mãe e montagem de computadores, até manutenção de impressoras e nobreaks. Além disso, oferecíamos suporte remoto através do AnyDesk (software de acesso remoto), permitindo reparos remotos nos sistemas operacionais e programas/applicativos instalados nas máquinas de outros colaboradores e nos PDVs da loja.
+
 ##
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=33&pause=1000&color=41B8D5&center=&vCenter=&repeat=&random=&width=435&lines=Que+área+pretendo+seguir%3A" alt="Typing SVG" /></a>
