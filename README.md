@@ -1,10 +1,9 @@
-## Olá, seja bem-vindo(a) ao meu GitHub!
+## Olá, sejá bem-vindo(a) ao meu GitHub!
 
 ![Banner JC](https://github.com/user-attachments/assets/b00c1eb8-8393-4e85-98e6-3dfc1605eb0d)
 ##
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=33&pause=1000&color=41B8D5&center=&vCenter=&repeat=&random=&width=435&lines=Sobre+mim%3A" alt="Typing SVG" />
-</a>
+## Sobre mim:
 <img align="right" height="180" src="https://www.mexidodeideias.com.br/wp-content/uploads/2016/05/cafe-adventure-time.gif"  />
 
 - Tenho 19 anos;
@@ -18,7 +17,7 @@
 
 ##
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=33&pause=1000&color=41B8D5&center=&vCenter=&repeat=&random=&width=435&lines=Hobbies%3A" alt="Typing SVG" /></a>
+## Hobbies:
 
 - Programar;
 - Gosto de jogar nas horas vagas;
@@ -31,13 +30,13 @@
 
 ##
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=33&pause=1000&color=41B8D5&center=&vCenter=&repeat=&random=&width=435&lines=Minhas+experiências%3A" alt="Typing SVG" /></a>
+## Minhas experiências:
 
   Trabalhei durante um ano como aprendiz no setor de suporte e manutenção em informática de uma rede de supermercados da cidade onde moro. Lá, fazíamos desde reparos físicos, como troca de componentes da placa-mãe e montagem de computadores, até manutenção de impressoras e nobreaks. Além disso, oferecíamos suporte remoto através do AnyDesk (software de acesso remoto), permitindo reparos remotos nos sistemas operacionais e programas/applicativos instalados nas máquinas de outros colaboradores e nos PDVs da loja.
 
 ##
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=33&pause=1000&color=41B8D5&center=&vCenter=&repeat=&random=&width=435&lines=Que+área+pretendo+seguir%3A" alt="Typing SVG" /></a>
+## Área que pretendo seguir:
 
 Minha trajetória profissional visa uma carreira desafiadora e apaixonante. Atualmente, considero duas opções promissoras. 
 
@@ -57,7 +56,7 @@ Essas experiências me motivam a criar jogos que inspiram, educam e divertem. Qu
 Minha segunda opção de carreira é trabalhar como hacker ético, uma profissão que combina habilidades técnicas, criatividade e responsabilidade social. Fascinado pela segurança cibernética, quero proteger informações sensíveis e contribuir para um mundo digital mais seguro.
 ##
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=33&pause=1000&color=41B8D5&center=&vCenter=&repeat=&random=&width=435&lines=Tecnologias %3A" alt="Typing SVG" /></a>
+## Tecnologias
 
 ![LINUX](https://icongr.am/devicon/linux-original.svg?size=100&color=currentColor)![DOCKER](https://icongr.am/devicon/docker-original-wordmark.svg?size=100&color=currentColor)![PYTHON](https://icongr.am/devicon/python-original.svg?size=100&color=currentColor)![NODE.JS](https://icongr.am/devicon/nodejs-original.svg?size=100&color=currentColor)![JS](https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor)![HTML](https://icongr.am/devicon/html5-original.svg?size=100&color=currentColor)![CSS](https://icongr.am/devicon/css3-original.svg?size=100&color=currentColor)
 ##
