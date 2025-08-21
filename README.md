@@ -6,7 +6,7 @@
 ## Sobre mim:
 <img align="right" height="180" src="https://www.mexidodeideias.com.br/wp-content/uploads/2016/05/cafe-adventure-time.gif"  />
 
-- Tenho 19 anos;
+- Tenho 20 anos;
 - 🇧🇷 Brasileiro;
 - 🇯🇵 Amo a cultura japonesa;
 - 👨🏻‍💻Estudante de programação;
@@ -56,10 +56,24 @@ Essas experiências me motivam a criar jogos que inspiram, educam e divertem. Qu
 Minha segunda opção de carreira é trabalhar como hacker ético, uma profissão que combina habilidades técnicas, criatividade e responsabilidade social. Fascinado pela segurança cibernética, quero proteger informações sensíveis e contribuir para um mundo digital mais seguro.
 ##
 
-## Tecnologias
+## Linguagens e ferramentas
 
-![LINUX](https://icongr.am/devicon/linux-original.svg?size=100&color=currentColor)![DOCKER](https://icongr.am/devicon/docker-original-wordmark.svg?size=100&color=currentColor)![PYTHON](https://icongr.am/devicon/python-original.svg?size=100&color=currentColor)![NODE.JS](https://icongr.am/devicon/nodejs-original.svg?size=100&color=currentColor)![JS](https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor)![HTML](https://icongr.am/devicon/html5-original.svg?size=100&color=currentColor)![CSS](https://icongr.am/devicon/css3-original.svg?size=100&color=currentColor)
-##
+<p>
+  <img src="https://icongr.am/devicon/python-original.svg" alt="PYTHON" width="100" />
+  <img src="https://icongr.am/devicon/javascript-original.svg" alt="JS" width="100" />
+  <img src="https://icongr.am/devicon/html5-original.svg" alt="HTML" width="100" />
+  <img src="https://icongr.am/devicon/css3-original.svg" alt="CSS" width="100" />
+</p>
+<p>
+  <img src="https://img.icons8.com/?id=qBWtR72kluCU&format=png&color=000000" alt="LINUX" width="100" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openvas.svg" alt="OPENVAS" width="100" />
+  <img src="https://icongr.am/devicon/docker-original-wordmark.svg" alt="DOCKER" width="100" />
+  <img src="https://icongr.am/devicon/nodejs-original.svg" alt="NODE.JS" width="100" />
+  <img src="https://icongr.am/devicon/git-original.svg" alt="GIT" width="100" />
+  <img src="https://icongr.am/devicon/gitlab-original.svg" alt="GITLAB" width="100" />
+</p>
+
+## Contate-me
 
 <div align="left">
   
