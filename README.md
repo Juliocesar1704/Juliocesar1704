@@ -59,7 +59,7 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
 ## Linguagens e ferramentas
 
 <p>
-  <img src="https://icongr.am/devicon/python-original.svg" alt="PYTHON" width="100" />
+  <img src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000" alt="PYTHON" width="100" />
   <img src="https://icongr.am/devicon/javascript-original.svg" alt="JS" width="100" />
   <img src="https://icongr.am/devicon/html5-original.svg" alt="HTML" width="100" />
   <img src="https://icongr.am/devicon/css3-original.svg" alt="CSS" width="100" />
@@ -95,6 +95,10 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
   
   <a href="https://www.instagram.com/julio_cesar.17?igsh=NDYwMjRoeGd3a2Z6" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  
+  <a href="https://t.me/SEU_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   
 </div>
