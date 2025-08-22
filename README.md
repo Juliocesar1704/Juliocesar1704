@@ -68,9 +68,13 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
   <img src="https://img.icons8.com/?id=qBWtR72kluCU&format=png&color=000000" alt="LINUX" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openvas.svg" alt="OPENVAS" width="100" />
   <img src="https://icongr.am/devicon/docker-original-wordmark.svg" alt="DOCKER" width="100" />
+  <img src="https://img.icons8.com/?size=100&id=v5aFhu6h1M57&format=png&color=0288D1" alt="WIRESHARK" width="100" />
+  <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VSCODE" width="100" />
   <img src="https://icongr.am/devicon/nodejs-original.svg" alt="NODE.JS" width="100" />
+  <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=FFFFFF" alt="Ícone" width="100" />
   <img src="https://icongr.am/devicon/git-original.svg" alt="GIT" width="100" />
   <img src="https://icongr.am/devicon/gitlab-original.svg" alt="GITLAB" width="100" />
+  <img src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000" alt="VIRTUAL_BOX" width="100" />
 </p>
 
 ## Contate-me
