@@ -66,6 +66,7 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
 </p>
 <p>
   <img src="https://img.icons8.com/?id=qBWtR72kluCU&format=png&color=000000" alt="LINUX" width="100" />
+   <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="HYDRA" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openvas.svg" alt="OPENVAS" width="100" />
   <img src="https://icongr.am/devicon/docker-original-wordmark.svg" alt="DOCKER" width="100" />
   <img src="https://img.icons8.com/?size=100&id=v5aFhu6h1M57&format=png&color=0288D1" alt="WIRESHARK" width="100" />
