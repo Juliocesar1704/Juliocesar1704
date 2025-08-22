@@ -56,7 +56,7 @@ Essas experiências me motivam a criar jogos que inspiram, educam e divertem. Qu
 Minha segunda opção de carreira é trabalhar como hacker ético, uma profissão que combina habilidades técnicas, criatividade e responsabilidade social. Fascinado pela segurança cibernética, quero proteger informações sensíveis e contribuir para um mundo digital mais seguro.
 ##
 
-## Linguagens e ferramentas
+## Linguagens e ferramentas:
 
 <p>
   <img src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000" alt="PYTHON" width="100" />
@@ -69,6 +69,7 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
   <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="HYDRA" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openvas.svg" alt="OPENVAS" width="100" />
   <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="NMAP" width="100" />
+  <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="MALTEGO" width="100" />
   <img src="https://icongr.am/devicon/docker-original-wordmark.svg" alt="DOCKER" width="100" />
   <img src="https://img.icons8.com/?size=100&id=v5aFhu6h1M57&format=png&color=0288D1" alt="WIRESHARK" width="100" />
   <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VSCODE" width="100" />
@@ -78,6 +79,8 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
   <img src="https://icongr.am/devicon/gitlab-original.svg" alt="GITLAB" width="100" />
   <img src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000" alt="VIRTUAL_BOX" width="100" />
 </p>
+
+##
 
 ## Contate-me
 
