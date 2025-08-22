@@ -60,7 +60,7 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
 
 <p>
   <img src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000" alt="PYTHON" width="100" />
-  <img src="https://icongr.am/devicon/javascript-original.svg" alt="JS" width="100" />
+  <img src="https://img.icons8.com/?size=100&id=1ZSHk8m9bk4p&format=png&color=000000" alt="JS" width="100" />
   <img src="https://icongr.am/devicon/html5-original.svg" alt="HTML" width="100" />
   <img src="https://icongr.am/devicon/css3-original.svg" alt="CSS" width="100" />
 </p>
