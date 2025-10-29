@@ -76,7 +76,6 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
   <img src="https://icongr.am/devicon/nodejs-original.svg" alt="NODE.JS" width="100" />
   <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=FFFFFF" alt="Ícone" width="100" />
   <img src="https://icongr.am/devicon/git-original.svg" alt="GIT" width="100" />
-  <img src="https://icongr.am/devicon/gitlab-original.svg" alt="GITLAB" width="100" />
   <img src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000" alt="VIRTUAL_BOX" width="100" />
 </p>
 
