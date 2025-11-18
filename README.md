@@ -1,4 +1,4 @@
-## Olá, sejá bem-vindo(a) ao meu GitHub!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6ce5e8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sejá+bem-vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 ![Banner JC](https://github.com/user-attachments/assets/b00c1eb8-8393-4e85-98e6-3dfc1605eb0d)
 ##
@@ -36,7 +36,7 @@
 
 ##
 
-## Área que pretendo seguir:
+<!-- ## Área que pretendo seguir:
 
 Minha trajetória profissional visa uma carreira desafiadora e apaixonante. Atualmente, considero duas opções promissoras. 
 
@@ -54,32 +54,32 @@ Além do entretenimento, os jogos me ensinaram:
 Essas experiências me motivam a criar jogos que inspiram, educam e divertem. Quero combinar minha paixão por tecnologia, arte e narrativa para desenvolver experiências imersivas e memoráveis.
 
 Minha segunda opção de carreira é trabalhar como hacker ético, uma profissão que combina habilidades técnicas, criatividade e responsabilidade social. Fascinado pela segurança cibernética, quero proteger informações sensíveis e contribuir para um mundo digital mais seguro.
-##
+## -->
 
-## Linguagens e ferramentas:
+## 💻 Linguagens e Ferramentas:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-<p>
-  <img src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000" alt="PYTHON" width="100" />
-  <img src="https://img.icons8.com/?size=100&id=1ZSHk8m9bk4p&format=png&color=000000" alt="JS" width="100" />
-  <img src="https://icongr.am/devicon/html5-original.svg" alt="HTML" width="100" />
-  <img src="https://icongr.am/devicon/css3-original.svg" alt="CSS" width="100" />
-</p>
-<p>
-  <img src="https://img.icons8.com/?id=qBWtR72kluCU&format=png&color=000000" alt="LINUX" width="100" />
-  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="HYDRA" width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openvas.svg" alt="OPENVAS" width="100" />
-  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="NMAP" width="100" />
-  <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="MALTEGO" width="100" />
-  <img src="https://icongr.am/devicon/docker-original-wordmark.svg" alt="DOCKER" width="100" />
-  <img src="https://img.icons8.com/?size=100&id=v5aFhu6h1M57&format=png&color=0288D1" alt="WIRESHARK" width="100" />
-  <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VSCODE" width="100" />
-  <img src="https://icongr.am/devicon/nodejs-original.svg" alt="NODE.JS" width="100" />
-  <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=FFFFFF" alt="Ícone" width="100" />
-  <img src="https://icongr.am/devicon/git-original.svg" alt="GIT" width="100" />
-  <img src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000" alt="VIRTUAL_BOX" width="100" />
-</p>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat&logo=kalilinux&logoColor=white)
+![Hydra (THC)](https://img.shields.io/badge/THC_Hydra-0A0A0A?style=flat&logo=gnuprivacyguard&logoColor=white)
+![Greenbone](https://img.shields.io/badge/Greenbone-1F9D55?style=flat&logo=opnsense&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego-2E9AEB?style=flat&logo=maltego&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004F8C?style=flat&logo=securityscorecard&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
-##
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2C8CFF?style=flat&logo=metasploit&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 ## Contate-me
 
