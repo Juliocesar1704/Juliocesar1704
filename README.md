@@ -1,9 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6ce5e8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sejá+bem-vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
 
+---
 ![Banner JC](https://github.com/user-attachments/assets/b00c1eb8-8393-4e85-98e6-3dfc1605eb0d)
-##
 
-## Sobre mim:
+---
+### Sobre mim:
 <img align="right" height="180" src="https://www.mexidodeideias.com.br/wp-content/uploads/2016/05/cafe-adventure-time.gif"  />
 
 - Tenho 20 anos;
@@ -14,10 +15,9 @@
 - ☕Toda hora é hora do café;
 - 🎮Amante do mundo dos jogos desde novo;
 - ⍟ Fã de carteirinha da Marvel;
+---
 
-##
-
-## Hobbies:
+### Hobbies:
 
 - Programar;
 - Gosto de jogar nas horas vagas;
@@ -27,14 +27,13 @@
 - Sair com amigos;
 - Ir a praia;
 - Olhar o ceu;
+---
 
-##
-
-## Minhas experiências:
+### Minhas experiências:
 
   Trabalhei durante um ano como aprendiz no setor de suporte e manutenção em informática de uma rede de supermercados da cidade onde moro. Lá, fazíamos desde reparos físicos, como troca de componentes da placa-mãe e montagem de computadores, até manutenção de impressoras e nobreaks. Além disso, oferecíamos suporte remoto através do AnyDesk (software de acesso remoto), permitindo reparos remotos nos sistemas operacionais e programas/applicativos instalados nas máquinas de outros colaboradores e nos PDVs da loja.
 
-##
+---
 
 <!-- ## Área que pretendo seguir:
 
@@ -56,11 +55,13 @@ Essas experiências me motivam a criar jogos que inspiram, educam e divertem. Qu
 Minha segunda opção de carreira é trabalhar como hacker ético, uma profissão que combina habilidades técnicas, criatividade e responsabilidade social. Fascinado pela segurança cibernética, quero proteger informações sensíveis e contribuir para um mundo digital mais seguro.
 ## -->
 
-## 💻 Linguagens e Ferramentas:
+### 💻 Linguagens e Ferramentas:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat&logo=kalilinux&logoColor=white)
 ![Hydra (THC)](https://img.shields.io/badge/THC_Hydra-0A0A0A?style=flat&logo=gnuprivacyguard&logoColor=white)
@@ -70,6 +71,7 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
 
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2C8CFF?style=flat&logo=metasploit&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -80,8 +82,11 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
-## Contate-me
+---
+### Contate-me
 
 <div align="left">
   
@@ -107,13 +112,11 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
   
 </div>
 
-##
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Juliocesar1704&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juliocesar1704&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-##
 
 <img src="https://raw.githubusercontent.com/Juliocesar1704/Juliocesar1704/output/snake.svg" alt="Snake animation" />
