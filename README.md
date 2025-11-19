@@ -128,6 +128,8 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliocesar1704&layout=compact&hide_border=true&title_color=2f5f98&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Juliocesar1704/Juliocesar1704/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Juliocesar1704/Juliocesar1704/output/snake.svg" alt="Snake animation" />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f5f98&height=120&section=footer"/>
