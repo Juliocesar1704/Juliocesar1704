@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6ce5e8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sejá+bem-vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f5f98&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2f5f98&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sejá+bem-vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 ---
 ![Banner JC](https://github.com/user-attachments/assets/b00c1eb8-8393-4e85-98e6-3dfc1605eb0d)
@@ -120,3 +122,5 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
 </div>
 
 <img src="https://raw.githubusercontent.com/Juliocesar1704/Juliocesar1704/output/snake.svg" alt="Snake animation" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f5f98&height=120&section=footer"/>
