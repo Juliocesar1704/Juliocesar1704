@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2f5f98&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sejá+bem-vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
 
----
 ![Banner JC](https://github.com/user-attachments/assets/b00c1eb8-8393-4e85-98e6-3dfc1605eb0d)
 
 ---
