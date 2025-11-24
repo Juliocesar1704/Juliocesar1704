@@ -128,7 +128,9 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Juliocesar1704/Juliocesar1704/output/snake.svg" alt="Snake animation" />
+  
+<img src="https://raw.githubusercontent.com/Juliocesar1704/Juliocesar1704/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f5f98&height=120&section=footer"/>
