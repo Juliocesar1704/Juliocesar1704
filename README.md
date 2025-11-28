@@ -119,7 +119,7 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
   <img 
     width="49%" 
     height="195px" 
-    src="https://github-readme-stats.vercel.app/api?username=Juliocesar1704&show_icons=true&count_private=true&hide_border=true&title_color=2f5f98&icon_color=2f5f98&text_color=c9d1d9&bg_color=0d1117" alt="stats graph"
+    src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&count_private=true&hide_border=true&title_color=2f5f98&icon_color=2f5f98&text_color=c9d1d9&bg_color=0d1117" alt="stats graph"
     /> 
   <img 
     width="41%" 
