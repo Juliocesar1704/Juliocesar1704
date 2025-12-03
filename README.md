@@ -115,17 +115,15 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
 
 ---
 
-<div align="center">  
-  <img 
-    width="49%" 
-    height="195px" 
-    src="https://github-readme-stats.vercel.app/api?username=Juliocesar1704&show_icons=true&count_private=true&hide_border=true&title_color=2f5f98&icon_color=2f5f98&text_color=c9d1d9&bg_color=0d1117" alt="stats graph"
-    /> 
-  <img 
-    width="41%" 
-    height="195px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliocesar1704&layout=compact&hide_border=true&title_color=2f5f98&text_color=c9d1d9&bg_color=0d1117" />
+<div align="center">
+  <img src="https://github-readme-stats-vineet.vercel.app/api?username=Juliocesar1704&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true" 
+    style="display: inline-block; width: 52%;" 
+  /> 
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Juliocesar1704&langs_count=8&layout=compact&theme=github_dark&hide_border=true" 
+    style="display: inline-block; width: 40%;" 
+  />
 </div>
+
 
 <div align="center">
   
