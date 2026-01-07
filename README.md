@@ -66,18 +66,18 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat&logo=kalilinux&logoColor=white)
 ![Hydra (THC)](https://img.shields.io/badge/THC_Hydra-0A0A0A?style=flat&logo=gnuprivacyguard&logoColor=white)
-![Greenbone](https://img.shields.io/badge/Greenbone-1F9D55?style=flat&logo=opnsense&logoColor=white)
+<!--![Greenbone](https://img.shields.io/badge/Greenbone-1F9D55?style=flat&logo=opnsense&logoColor=white)-->
 ![Maltego](https://img.shields.io/badge/Maltego-2E9AEB?style=flat&logo=maltego&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004F8C?style=flat&logo=securityscorecard&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
+<!--![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)-->
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2C8CFF?style=flat&logo=metasploit&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+<!--![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)-->
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+<!--![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)-->
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
