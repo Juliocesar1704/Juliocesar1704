@@ -30,11 +30,11 @@
 - Olhar o ceu;
 ---
 
+<!--
 ### Minhas experiências:
 
   Trabalhei durante um ano como aprendiz no setor de suporte e manutenção em informática de uma rede de supermercados da cidade onde moro. Lá, fazíamos desde reparos físicos, como troca de componentes da placa-mãe e montagem de computadores, até manutenção de impressoras e nobreaks. Além disso, oferecíamos suporte remoto através do AnyDesk (software de acesso remoto), permitindo reparos remotos nos sistemas operacionais e programas/applicativos instalados nas máquinas de outros colaboradores e nos PDVs da loja.
-
----
+  -->
 
 <!-- ## Área que pretendo seguir:
 
