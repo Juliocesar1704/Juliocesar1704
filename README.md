@@ -30,32 +30,6 @@
 - Olhar o ceu;
 ---
 
-<!--
-### Minhas experiências:
-
-  Trabalhei durante um ano como aprendiz no setor de suporte e manutenção em informática de uma rede de supermercados da cidade onde moro. Lá, fazíamos desde reparos físicos, como troca de componentes da placa-mãe e montagem de computadores, até manutenção de impressoras e nobreaks. Além disso, oferecíamos suporte remoto através do AnyDesk (software de acesso remoto), permitindo reparos remotos nos sistemas operacionais e programas/applicativos instalados nas máquinas de outros colaboradores e nos PDVs da loja.
-  -->
-
-<!-- ## Área que pretendo seguir:
-
-Minha trajetória profissional visa uma carreira desafiadora e apaixonante. Atualmente, considero duas opções promissoras. 
-
-A primeira é desenvolver jogos, uma área que combina criatividade, tecnologia e diversão.
-
-Desde a infância, os jogos foram mais do que um passatempo; foram uma fonte de inspiração, educação e escape. Títulos como GTA e Dragon Ball me ajudaram a superar momentos difíceis, proporcionando momentos de pura diversão e desconexão dos problemas.
-
-Além do entretenimento, os jogos me ensinaram:
-
-- Novos idiomas e culturas
-- Estratégias e resolução de problemas
-- Empatia e trabalho em equipe
-- Lições valiosas sobre perseverança e resiliência
-
-Essas experiências me motivam a criar jogos que inspiram, educam e divertem. Quero combinar minha paixão por tecnologia, arte e narrativa para desenvolver experiências imersivas e memoráveis.
-
-Minha segunda opção de carreira é trabalhar como hacker ético, uma profissão que combina habilidades técnicas, criatividade e responsabilidade social. Fascinado pela segurança cibernética, quero proteger informações sensíveis e contribuir para um mundo digital mais seguro.
-## -->
-
 ### 💻 Linguagens e Ferramentas:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -72,12 +46,9 @@ Minha segunda opção de carreira é trabalhar como hacker ético, uma profissã
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
 
-<!--![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)-->
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2C8CFF?style=flat&logo=metasploit&logoColor=white)
-<!--![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)-->
 
-<!--![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)-->
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
