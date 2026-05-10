@@ -8,7 +8,7 @@
 ### Sobre mim:
 <img align="right" height="180" src="https://www.mexidodeideias.com.br/wp-content/uploads/2016/05/cafe-adventure-time.gif"  />
 
-- Tenho 20 anos;
+- Tenho 21 anos;
 - 🇧🇷 Brasileiro;
 - 🇯🇵 Amo a cultura japonesa;
 - 👨🏻‍💻Estudante de programação;
